@@ -1,6 +1,7 @@
 import { motion } from 'motion/react';
 import { ArrowRight, Github, Linkedin } from 'lucide-react';
 import { XIcon } from '../Icons';
+import profileImg from '/images/profile_img.jpeg';
 
 export default function Hero() {
   return (
@@ -74,10 +75,9 @@ export default function Hero() {
         >
           <div className="absolute inset-0 bg-accent/20 blur-[120px] rounded-full animate-pulse" />
           <img 
-            src="https://ais-dev-o5uuotgeftrsjr3oaifxeb-255209144970.europe-west2.run.app/attachment/00806950-0697-4315-9948-42217e57c5e5" 
+            src={profileImg} 
             alt="Uri Okhai" 
             className="relative z-10 w-full h-full object-cover rounded-[3rem] border border-line shadow-2xl"
-            referrerPolicy="no-referrer"
           />
           <div className="absolute -bottom-6 -right-6 glass p-6 rounded-3xl z-20 hidden md:block">
             <p className="text-[10px] uppercase tracking-widest font-mono text-accent mb-1">Status</p>

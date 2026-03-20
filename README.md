@@ -90,4 +90,4 @@ Contributions are welcome! Feel free to submit issues and pull requests to impro
 
 ---
 
-**Made with ❤️ by Uri**
+**Made with ❤️ by Uri x Gemini**

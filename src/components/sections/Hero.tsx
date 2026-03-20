@@ -35,7 +35,7 @@ export default function Hero() {
           transition={{ delay: 0.4 }}
           className="text-xl md:text-2xl text-[var(--muted)] max-w-xl mb-12 leading-relaxed font-light"
         >
-          Full-Stack Developer specializing in <span className="text-[var(--ink)] font-medium">React, Node.js, and Supabase</span>. 
+          Frontend Developer specializing in <span className="text-[var(--ink)] font-medium">React, Next.js, and Supabase</span>. 
           Engineering precision meets creative world-building.
         </motion.p>
 

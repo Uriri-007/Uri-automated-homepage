@@ -8,7 +8,7 @@ export default function Footer() {
               URI<span className="text-accent">OKHAI</span>
             </div>
             <p className="text-[10px] font-mono text-[var(--muted)] uppercase tracking-[0.3em]">
-              Full Stack Engineer / Author
+              Frontend Developer / Author
             </p>
           </div>
           
